@@ -11,7 +11,7 @@ package Andre15323;
  */
 
 /*
-    Nama Kelompok :
+    Nama Kelompok Project:
     1. Andre Mahesa Putra
     2. Rifki Mulfianda
     3. Arif Hidayatullah
