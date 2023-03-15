@@ -10,6 +10,12 @@ package Andre15323;
  * @author user
  */
 
+/*
+    Nama Kelompok :
+    1. Andre Mahesa Putra
+    2. Rifki Mulfianda
+    3. Arif Hidayatullah
+*/
 import java.util.*;
 public class HitungKalori {
     public static void main(String args[]){
