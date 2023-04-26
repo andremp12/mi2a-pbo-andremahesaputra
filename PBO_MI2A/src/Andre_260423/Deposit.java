@@ -26,6 +26,7 @@ public class Deposit {
         
         switch(pil){
             case 1 :System.out.println("");
+            a2.setBalance(100000);
             a2.setTarik(50000);
             a2.print();
             break;
